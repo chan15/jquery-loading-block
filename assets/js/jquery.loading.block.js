@@ -1,3 +1,10 @@
+/**
+ * jQuery Loading Block
+ *
+ * demos / documentation: https://github.com/chan15/jquery-loading-block
+ *
+ * @author Chan
+ */
 ;(function ($) {
     $.loadingBlockShow = function(opts) {
         var defaults = {
