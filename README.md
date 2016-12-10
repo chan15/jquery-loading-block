@@ -8,7 +8,7 @@ Nowdays we do a lot ajax on website, therefore we can see loading animation ever
 
 <script type="text/javascript" charset="utf-8">
 $(function() {
-    // imgPath almost nessarry
+    // imgPath almost necessary
     $.loadingBlockShow({
         imgPath: 'assets/img/icon.gif'
     });
