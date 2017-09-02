@@ -1,6 +1,6 @@
 # jquery-loading-block
 
-Nowdays we do a lot ajax on website, therefore we can see loading animation everywhere, this plugin is an easy one to show and hide loading overlay.
+Nowadays we do a lots of ajax thing on website, therefore we can see loading animation everywhere, this plugin is an easy one to show and hide loading overlay.
 
 ### Basic usage
 
